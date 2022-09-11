@@ -38,17 +38,17 @@
 <p align="center">By KING CHAMI>| © | Reserved  </br> 
  
 
-1. Click [SCAN](https://replit.com/@kingchamiya/-?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+***ඉස්සෙල්ලාම ඔයාලා FORK කරගෙන ඉන්න***
 
-2. Click [FORK](https://github.com/KINGCHAMIYA00/KING-CHAMI-V1/fork)
+[FORK](https://github.com/KINGCHAMIYA00/KING-CHAMI-V1/fork)
 
-2. After That Upload Session.json File
+***ඊට පස්සේ QR CODE එක ගන්න.ඒකට පල්ලෙ තියෙන බටන් එක ඔබන්න***
 
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@kingchamiya/-?v=1)
 
-5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
+***ඊට පස්සේ විඩියෝ එකේ තියෙන විදිහට ඇප් එක හදලා ඉවර වෙලා පල්ලෙ තියෙන බටන් එක ඔබන්න***
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 ## Owner:
