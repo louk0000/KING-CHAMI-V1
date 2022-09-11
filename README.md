@@ -59,5 +59,5 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=[your](https://github.com/KINGCHAMIYA00/KING-CHAMI-V1)-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=[https://github.com/KINGCHAMIYA00/KING-CHAMI-V1]-github-username&label=PROFILE+VIEWS)
 
