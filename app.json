@@ -10,16 +10,8 @@
     "description" : "IF YOU NEED TO OFF THIS TYPE : false",
     "required" : true,
   "value" : "true"
-    },
-        "HEROKU_API_KEY": {
-            "description": "Heroku API Key.",
-            "required": true
-            
-      },
-        "HEROKU_APP_NAME": {
-            "description": "Heroku APP Name.",
-            "required": true
-            
+ 
+           
     },
   
         "AUTO_BIO" :{
@@ -73,11 +65,6 @@
     "description" : "TYPE ALIVE MSG",
     "required" : true,
   "value" : "*IM ALIVE NOW*"
-            
-     },
-        "REMOVE_BG_API_KEY": {
-            "description": "Get API Key. https://remove.bg",
-            "required": false
             
     },
         
