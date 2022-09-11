@@ -57,9 +57,3 @@
 ## Thanks To
 
 
-
-
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8037325&style=0009&nbdigits=4&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  
-
