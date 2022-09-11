@@ -59,49 +59,5 @@
 
 
 
+![](https://komarev.com/ghpvc/?username=[your](https://github.com/KINGCHAMIYA00/KING-CHAMI-V1)-github-username&label=PROFILE+VIEWS)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function getCountImage(count) {
-  // This is not the greatest way for generating an SVG but it'll do for now
-  const countArray = count.toString().padStart(PLACES, '0').split('');
-
-  const parts = countArray.reduce((acc, next, index) => `
-        ${acc}
-        <rect id="Rectangle" fill="#000000" x="${index * 32}" y="0.5" width="29" height="29"></rect>
-        <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
-            <tspan x="${index * 32 + 7}" y="22">${next}</tspan>
-        </text>
-`, '');
-  
-  return `<?xml version="1.0" encoding="UTF-8"?>
-<svg width="${PLACES * 32}px" height="30px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Count</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-      ${parts}
-    </g>
-</svg>
-}
