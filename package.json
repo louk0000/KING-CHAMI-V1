@@ -21,7 +21,7 @@
   "author": "kingchami.",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/KINGCHAMIYA00/KING-CHAMI-V1.git",
+    "@adiwajshing/baileys": "git+https://github.com/KINGCHAMIYA00/Baileys.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
     "@bochilteam/scraper": "^2.0.0",
