@@ -1,6 +1,5 @@
 # 💫𝙺𝙸𝙽𝙶_𝙲𝙷𝙰𝙼𝙸ᵀᴹ-𝙼𝙳💫
-#### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+
 
     💫𝙺𝙸𝙽𝙶_𝙲𝙷𝙰𝙼𝙸ᵀᴹ-𝙼𝙳💫 V3...
 
