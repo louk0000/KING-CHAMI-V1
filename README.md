@@ -45,16 +45,16 @@
 
 ***ඊට පස්සේ QR CODE එක ගන්න.ඒකට පල්ලෙ තියෙන බටන් එක ඔබන්න***
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@kingchamiya/-?v=1)
+[![SCAN BRO QR CODE❤️‍🔥💓](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@kingchamiya/-?v=1)
 
 ***ඊට පස්සේ විඩියෝ එකේ තියෙන විදිහට ඇප් එක හදලා ඉවර වෙලා පල්ලෙ තියෙන බටන් එක ඔබන්න***
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy BRO🫀💄](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 ## Owner:
 * [`KING-CHAMI`](https://github.com/KINGCHAMIYA00)
 
-## Thanks To
+## Thanks To BASSAME KROZ
 
 
